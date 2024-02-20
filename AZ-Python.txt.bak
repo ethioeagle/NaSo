@@ -1,0 +1,20 @@
+file:///C:/Users/User/Downloads/Telegram Desktop/Skill Mentors' Python Quick Study Guide I_2 (2).pdf
+
+https://gamma.app/docs/Introduction-to-Programming-and-Computational-thinking-c3c31nwaaq9ek6f?mode=doc
+
+https://gamma.app/public/Introduction-to-Python-zj40s7ks4oqdw4h?mode=doc
+
+https://gamma.app/docs/Python-Control-Structures-7jg5i8qqtknp62s?mode=doc
+
+https://gamma.app/docs/Python-Collections--yc9tnr8pawweod0
+
+https://gamma.app/docs/Python-Functions-yg1pkbi1n4t8q0l
+
+file:///C:/Users/User/Downloads/Telegram Desktop/Skill Mentors' Python Workbook VII.pdf.pdf
+
+Newcontact = ["name","phone no","email"]
+Newcontact.append("address")
+Newcontact.insert(1,"zipcode")
+tropical = ["orange","mango"]
+Newcontact.extend(tropical)
+print(Newcontact)
